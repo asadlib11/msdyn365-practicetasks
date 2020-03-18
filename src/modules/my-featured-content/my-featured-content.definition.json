@@ -5,12 +5,12 @@
     "description": "Please add meaningful description for authoring",
     "categories": ["my-featured-content"],
     "tags": ["Additional tags go here"],
-    "dataActions": {       
-        "product": {
-            "path": "../../actions/my-featured-content-da",
+    "dataActions": {
+        "products": {
+            "path": "@msdyn365-commerce-modules/retail-actions/dist/lib/get-simple-products",
             "runOn": "server"
-        } 
-    },    
+        }
+    },
     "config": {
         "showText": {
             "friendlyName": "showText",
@@ -37,6 +37,11 @@
             "friendlyName": "Image",
             "description": "Sample image in module",
             "required": true
+        },
+        "productIds": {
+            "friendlyName": "Product Ids",
+            "description": "Product Ids for data actions in content",
+            "type": "string"
         }
     },
     "resources": {

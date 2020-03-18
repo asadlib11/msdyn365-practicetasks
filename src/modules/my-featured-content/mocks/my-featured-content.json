@@ -3,7 +3,8 @@
   "config": {
     "showText": "Example Config Value",
     "imageAlignment": "left",
-    "imageSrc": "https://images-us-sb.cms.commerce.dynamics.com/cms/api/qvngfvszcl/imageFileData/SAd0D"
+    "imageSrc": "https://images-us-sb.cms.commerce.dynamics.com/cms/api/qvngfvszcl/imageFileData/SAd0D",
+    "productIds": "68719498121"
   },
   "data": {
     "actionResponse": {
