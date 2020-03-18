@@ -1,0 +1,14 @@
+{
+  "id": "R1Module1",
+  "config": {
+    "showText": "Example Config Value",
+    "imageAlignment": "left",
+    "imageSrc": "https://images-us-sb.cms.commerce.dynamics.com/cms/api/qvngfvszcl/imageFileData/SAd0D"
+  },
+  "data": {
+    "actionResponse": {
+      "text": "Sample Action Response"
+    }
+  },
+  "typeName": "my-featured-content"
+}
