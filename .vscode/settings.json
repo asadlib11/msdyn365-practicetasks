@@ -20,7 +20,7 @@
           {
             "fileMatch": ["/**/settings/theme.settings.json"],
             "url": "/node_modules/@msdyn365-commerce/cli-internal/dist/theme-settings-schema.json"
-          }
+          },
           {
             "fileMatch": ["/**/pageMocks/*.json"],
             "url": "/node_modules/@msdyn365-commerce/cli-internal/dist/page-mock-schema.json"
