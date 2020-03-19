@@ -1,0 +1,19 @@
+[
+    {
+        "CacheObjectType": "Product",
+        "CacheKey": "*",
+        "Mock": {
+            "RecordId": 22565423455,
+            "ItemId": "2101",
+            "Name": "Men's Wingtip Shoe",
+            "Description": "Genuine leather crafted to perfection.",
+            "ProductTypeValue": 3,
+            "DefaultUnitOfMeasure": "Ea",
+            "BasePrice": 129,
+            "Price": 129,
+            "AdjustedPrice": 103.2,
+            "MasterProductId": null,
+            "PrimaryImageUrl": "https://renderingdynrush73-1e0adbc991eb8c2f0ret.cloud.retail.dynamics.com/MediaServer/Products/2101_000_001.png"            
+        }
+    }
+]
