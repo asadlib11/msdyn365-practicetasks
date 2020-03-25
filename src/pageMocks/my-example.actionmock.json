@@ -1,8 +1,9 @@
 [
     {
-        "CacheObjectType": "Product",
-        "CacheKey": "*",
+        "CacheObjectType": "TODO",
+        "CacheKey": "TODO",
         "Mock": {
+            "text":"mera text",
             "RecordId": 22565423455,
             "ItemId": "2101",
             "Name": "Men's Wingtip Shoe",

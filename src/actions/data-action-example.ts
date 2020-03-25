@@ -43,8 +43,9 @@ async function action(input:DataActionExampleInput, ctx: Msdyn365.IActionContext
     // const apiSettings = Msdyn365.msdyn365Commerce.apiSettings;
 
     // TODO: Uncomment the below line to get the value from a service
-    const response = await Msdyn365.sendRequest<IDataActionExampleData[]>('/get/example/id/1', 'get');
-    return {text: 'Static data from action', response};
+    console.log("Action me he apun");
+    const response = await Msdyn365.sendRequest<IDataActionExampleData[]>('/get/todo/id/1', 'get');
+    return {text: 'Chaand pe hai apun!', response};
 }
 
 export default Msdyn365.createObservableDataAction({

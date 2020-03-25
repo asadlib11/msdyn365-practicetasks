@@ -6,7 +6,7 @@
     "categories": ["data-action-example"],
     "tags": ["Additional tags go here"],
     "dataActions": {    
-        "products": {
+        "TODO": {
             "path": "../../actions/data-action-example",
             "runOn": "server"
         }    
