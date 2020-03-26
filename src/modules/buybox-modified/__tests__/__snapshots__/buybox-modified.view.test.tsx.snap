@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buybox unit tests - View renders correctly 1`] = `
+<div
+  class="ms-buybox"
+  data-m-t="mock-type"
+  id=""
+>
+  <div
+    class="ms-buybox__media-gallery"
+  >
+    <div>
+      Media Gallery
+    </div>
+  </div>
+  <div
+    class="ms-buybox__content"
+  >
+    <div>
+      Title
+    </div>
+    <div>
+      Price
+    </div>
+    <div>
+      Description
+    </div>
+    <div>
+      Rating
+    </div>
+    <div
+      class="ms-buybux__configure"
+    >
+      <div
+        class="ms-buybox__configure-dropdown"
+      >
+        <div
+          class="ms-buybox__configure-dropdown-label"
+        >
+          <div>
+            Heading 1
+          </div>
+          <div>
+            Errors 1
+          </div>
+        </div>
+        <div>
+          Select 1
+        </div>
+      </div>
+      <div
+        class="ms-buybox__configure-dropdown"
+      >
+        <div
+          class="ms-buybox__configure-dropdown-label"
+        >
+          <div>
+            Heading 2
+          </div>
+          <div>
+            Errors 2
+          </div>
+        </div>
+        <div>
+          Select 2
+        </div>
+      </div>
+    </div>
+    <div
+      class="ms-buybux__quantity"
+    >
+      <div
+        class="ms-buybux__quantity-label"
+      >
+        <div>
+          Heading
+        </div>
+        <div>
+          Errors
+        </div>
+      </div>
+      <div>
+        Input
+      </div>
+    </div>
+    <div
+      class="ms-buybox__add-to-cart-container"
+    >
+      <div>
+        Add to cart errors
+      </div>
+      <div>
+        Add to cart button
+      </div>
+    </div>
+    <div
+      class="ms-buybux__find-in-store"
+    >
+      <div>
+        Find In Store Selector
+      </div>
+      <div>
+        Find In Store Heading
+      </div>
+      <div>
+        Find In Store Description
+      </div>
+      <div>
+        Find In Store Errors
+      </div>
+      <div>
+        Find In Store Button
+      </div>
+    </div>
+    <div
+      class="ms-buybox__add-to-wishlist-container"
+    >
+      <div>
+        Add to wishlist errors
+      </div>
+      <div>
+        Add to wishlist button
+      </div>
+    </div>
+  </div>
+</div>
+`;

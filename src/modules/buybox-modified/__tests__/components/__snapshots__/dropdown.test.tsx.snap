@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown Component Renders properly 1`] = `
+<select
+  aria-label="Size"
+  class="msc-dropdown__select"
+  id="msc-dropdown__entry-1"
+>
+  <option
+    aria-selected="true"
+    disabled=""
+    hidden=""
+    selected=""
+    value=""
+  >
+    Size
+  </option>
+  <option
+    aria-selected="false"
+    value="0"
+  >
+    Large
+  </option>
+  <option
+    aria-selected="false"
+    value="1"
+  >
+    Small
+  </option>
+  <option
+    aria-selected="false"
+    value="2"
+  >
+    Child
+  </option>
+</select>
+`;

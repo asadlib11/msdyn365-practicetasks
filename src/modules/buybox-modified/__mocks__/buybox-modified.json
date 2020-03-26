@@ -1,0 +1,14 @@
+{
+	"id": "R1Module1",
+	"config": {
+		"findInStoreLinkText": "Find in store",
+		"findInStoreHeaderText": "Buy now, pick up in a store",
+		"findInStoreDescriptionText": "Search for product availability at stores within 50 miles of you."
+	},
+	"resources": {
+		"findInStoreLinkText": "Find in store",
+		"findInStoreHeaderText": "Buy now, pick up in a store",
+		"findInStoreDescriptionText": "Search for product availability at stores within 50 miles of you."
+	},
+	"typeName": "buybox-modified"
+}

@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buybox Error Block renders correctly with errors 1`] = `
+<div
+  aria-label="There are some issues"
+  aria-live="assertive"
+  class="msc-alert msc-alert-danger"
+  role="alert"
+>
+  <div
+    class="fade"
+  >
+    <div
+      aria-hidden="true"
+      class="msc-alert__header"
+    >
+      <span
+        class="msi-exclamation-triangle"
+      />
+      <span>
+        There are some issues
+      </span>
+    </div>
+    <div
+      class="msc-alert__line"
+    >
+      Missing 1
+    </div>
+    <div
+      class="msc-alert__line"
+    >
+      Missing 2
+    </div>
+    <div
+      class="msc-alert__line"
+    >
+      Quantity error
+    </div>
+    <div
+      class="msc-alert__line"
+    >
+      Other error
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Buybox Error Block renders correctly with errors but showError=false 1`] = `
+<div
+  aria-label="There are some issues"
+  aria-live="assertive"
+  class="msc-alert msc-alert-danger"
+  role="alert"
+  style="display:none"
+/>
+`;
+
+exports[`Buybox Error Block renders correctly with no error messages 1`] = `
+<div
+  aria-label="There are some issues"
+  aria-live="assertive"
+  class="msc-alert msc-alert-danger"
+  role="alert"
+  style="display:none"
+/>
+`;
+
+exports[`Buybox Product Title renders correctly with default values 1`] = `
+<h1
+  class="ms-buybox__product-title"
+/>
+`;
+
+exports[`Buybox Product Title renders correctly with supplied values 1`] = `
+<h2
+  class="ms-buybox__product-title"
+>
+  Toy
+</h2>
+`;
+
+exports[`getBuyboxProductDescription renders correctly with default values 1`] = `
+<p
+  class="ms-buybox__product-description"
+/>
+`;
+
+exports[`getBuyboxProductDescription renders correctly with supplied values 1`] = `
+<h1
+  class="ms-buybox__product-title"
+/>
+`;
